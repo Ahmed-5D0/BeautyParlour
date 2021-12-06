@@ -40,8 +40,9 @@ S.No|Service|Price(in Rs.)
 3|Body Massage|300
 4|Makeup|900
 
-First Time :worried::worried:?? Dont Worry :smiley:
+[^1]First Time :worried::worried:?? Dont Worry :smiley:
 Use the Coupon Code : `WELCOME10` <br/>
-and You will get exclusive discount of 10% on Total Price :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+and You will get exclusive discount[^2] of 10% on Total Price :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
 > T&C Applied ...
-
+[^1]: Only first time users and new Customers are applicable for this Offer.
+[^2]: Max. Discount per Bill is Rs.100/-
