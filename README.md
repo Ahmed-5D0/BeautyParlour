@@ -40,3 +40,8 @@ S.No|Service|Price(in Rs.)
 2|Facial Treatments|250
 3|Body Massage|300
 4|Makeup|900
+
+First Time :worried::worried:?? Dont Worry :smiley:
+Use the Coupon Code : FIRSTTIME <br/>
+and You will get exclusive discount of 10% on Total Price :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+
