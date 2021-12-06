@@ -43,6 +43,6 @@ S.No|Service|Price(in Rs.)
 [^1]First Time :worried::worried:?? Dont Worry :smiley:
 Use the Coupon Code : `WELCOME10` <br/>
 and You will get exclusive discount[^2] of 10% on Total Price :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
-> T&C Applied ...
+> [T&C Applied](https://www.lakmesalon.in/terms-conditions/general-terms-and-conditions-.html) ...
 [^1]: Only first time users and new Customers are applicable for this Offer.
 [^2]: Max. Discount per Bill is Rs.100/-
