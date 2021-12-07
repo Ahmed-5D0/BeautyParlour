@@ -30,8 +30,7 @@ Heading 7
 
 Visit [Our Parlour Website](https://www.angelsbeautyparlour.com/)<br/>
 Our Parlour Images: <br/>
-![Parlour](https://lh3.googleusercontent.com/proxy/19OKw8THjlcCbd5pnXLLiGna0TVsZd9krglv7g9nbc8qO8hohV3ZNFsWU30stxgfV_AyD07RuFjq8-tKeFAkcAFDxZw)
-<img src="https://lh3.googleusercontent.com/proxy/19OKw8THjlcCbd5pnXLLiGna0TVsZd9krglv7g9nbc8qO8hohV3ZNFsWU30stxgfV_AyD07RuFjq8-tKeFAkcAFDxZw" width="300" height="300"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfMp8ZrgOqKvFp-hkNrfh8Y7ZEyA-uUw_JA&usqp=CAU" width="300" height="300"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZKCCU_iWIDnssk9tZ4LG7ExvPsTWLRxitg&usqp=CAU" width="300" height="300">
+<img src="https://image.shutterstock.com/image-photo/modern-bright-hair-beauty-salon-260nw-1535524496.jpg" width="300" height="300"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfMp8ZrgOqKvFp-hkNrfh8Y7ZEyA-uUw_JA&usqp=CAU" width="300" height="300"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZKCCU_iWIDnssk9tZ4LG7ExvPsTWLRxitg&usqp=CAU" width="300" height="300">
 
 S.No|Service|Price(in Rs.)
 ----|-------|------
